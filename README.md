@@ -11,5 +11,6 @@
 <p>React: Uma biblioteca JavaScript para construir interfaces de usuário.</p>
 <p>CSS: Usado para estilizar os componentes do jogo.</p>
 
-![Screenshot_1](https://github.com/artur-debv/jogo-da-velha/assets/97331300/88276216-1088-4da4-aceb-61baa9bba14e)
 
+
+![Screenshot_1](https://github.com/artur-debv/jogo-da-velha/assets/97331300/b8208c54-2db8-4c99-bb50-86a8fe2b9864)
